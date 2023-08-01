@@ -1,7 +1,8 @@
 # Online Vehicle Detection using Gated Recurrent Units
 
 This repository contains the implementation of the paper "Online Vehicle Detection using Gated Recurrent Units," presented at the International Conference on Artificial Intelligence and Smart Vehicle (ICAISV-2023).
-Authors: Arezoo Sedghi, Esmat Rashedi, Maryam Amoozegar and Fatemeh Afsari
+### Authors 
+Arezoo Sedghi, Esmat Rashedi, Maryam Amoozegar and Fatemeh Afsari
 
 ## Dataset Information
 
