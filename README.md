@@ -28,9 +28,9 @@ For training and generating background and foreground scenes for each synthetic 
 
 ## For any further inquiries, you can reach out to:
 
-Name: Arezoo Sedghi
-Affiliation: Faculty of Electrical and Computer Engineering, Graduate University of Advanced Technology
-Email: arezoosedghi91@gmail.com
+Arezoo Sedghi
+Faculty of Electrical and Computer Engineering, Graduate University of Advanced Technology
+arezoosedghi91@gmail.com
 
 Feel free to contact us if you have any questions or need more information.
 
