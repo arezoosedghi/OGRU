@@ -1,6 +1,7 @@
 # Online Vehicle Detection using Gated Recurrent Units
 
 This repository contains the implementation of the paper "Online Vehicle Detection using Gated Recurrent Units," presented at the International Conference on Artificial Intelligence and Smart Vehicle (ICAISV-2023).
+Authors: Arezoo Sedghi, Esmat Rashedi, Maryam Amoozegar and Fatemeh Afsari
 
 ## Dataset Information
 
@@ -24,4 +25,12 @@ Background Models Challenge
 ## Training and Evaluation
 
 For training and generating background and foreground scenes for each synthetic video of the BMC2012 dataset, run the OGRU.ipynb file and simply change the video file's name.
+
+## For any further inquiries, you can reach out to:
+
+Name: Arezoo Sedghi
+Affiliation: Faculty of Electrical and Computer Engineering, Graduate University of Advanced Technology
+Email: arezoosedghi91@gmail.com
+
+Feel free to contact us if you have any questions or need more information.
 
