@@ -11,12 +11,6 @@ Our paper's experiments were conducted using all the synthetic videos of the BMC
 ### Dataset Title
 A Benchmark Dataset for Outdoor Foreground/Background Extraction
 
-### Authors
-Vacavant, A., Chateau, T., Wilhelm, A., & Lequievre, L.
-
-### Publication
-Background Models Challenge
-
 ### Dataset URL
 [http://backgroundmodelschallenge.eu/](http://backgroundmodelschallenge.eu/)
 
