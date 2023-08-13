@@ -14,9 +14,6 @@ A Benchmark Dataset for Outdoor Foreground/Background Extraction
 ### Dataset URL
 [http://backgroundmodelschallenge.eu/](http://backgroundmodelschallenge.eu/)
 
-### Accessed URL
-[https://link.springer.com/chapter/10.1007/978-3-642-37410-4_25](https://link.springer.com/chapter/10.1007/978-3-642-37410-4_25)
-
 ## Training and Evaluation
 
 For training and generating background and foreground scenes for each synthetic video of the BMC2012 dataset, run the OGRU.ipynb file and simply change the video file's name.
